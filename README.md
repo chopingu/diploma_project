@@ -1,3 +1,3 @@
 ```
-My diploma project
+A diploma project
 ```
